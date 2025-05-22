@@ -271,3 +271,65 @@ df.sample(20)
 ## 📎 Author
 
 Credit Card Data Analysis Project | EDA, Cleaning & Preparation for Modeling
+
+# **Day 2**
+---
+# 📊 Customer Credit Risk & Financial Overview Dashboard
+
+This project showcases an interactive Power BI dashboard developed to analyze customer credit risk and financial behavior across various demographics and regions. The data was visualized to uncover key insights that can aid in risk assessment, financial planning, and customer segmentation.
+
+---
+
+## 🔍 Key Metrics
+
+- **Total Customers**: 149.98K
+- **Average Monthly Income**: 6.67K
+- **Average Debt Ratio**: 0.35K
+- **Average Number of Open Credit Lines**: 0.01K
+
+---
+
+## 📈 Visualizations
+
+### 1. **Monthly Income by Education & Gender**
+- Post-graduate males had the highest overall income.
+- Education significantly influences earning potential.
+
+### 2. **Number of Dependents & Debt Ratio by Age**
+- Debt and dependents vary sharply with age.
+- Spikes noted in mid-life age brackets.
+
+### 3. **Education Distribution by Region**
+- East and South regions have the highest representation in educated segments.
+
+### 4. **Monthly Income by Region and Occupation**
+- Non-officers in the Central and South regions reported the highest cumulative income.
+- Self-employed individuals in the North also show notable income contribution.
+
+### 5. **Number of Dependents by Housing Type**
+- Rented households report a higher number of dependents (63K vs. 48K).
+
+### 6. **Credit Behavior by Occupation and Risk Classification (Good/Bad)**
+- Non-officers dominate both good and bad credit risk groups.
+- Officer2 roles have fewer dependents across all categories.
+
+### 7. **Monthly Income by Risk Category and Housing**
+- Good credit customers contribute positively to overall income.
+- Negative contribution from bad credit customers especially in rented housing scenarios.
+
+---
+
+## 🛠️ Tools Used
+
+- **Power BI Desktop**
+- **DAX (Data Analysis Expressions)**
+- Interactive filters, slicers, and dynamic visuals
+
+---
+
+
+## **🔗 External Links:**
+
+**🧵 LinkedIn Post: View Day 2 https://www.linkedin.com/posts/putuka-ramanjaneyulu-2128r_power-bi-activity-7331201224106549248-3A_s?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD2ia5EB1oVSVZZwKYH5dxER-gZNWMmZj-k**
+
+
